@@ -9,4 +9,4 @@
 | External Inquiries      | 1      | 2          | 2   |
 | Internal Logical Files  | 2      | 10         | 20  |
 | External Interfaces     | 0      | 0          | 0   |
-| **Total UFP**                                **32** |
+| **Total UFP**           |                    **32** |
